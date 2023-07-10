@@ -1,4 +1,4 @@
-# Covid_19
+# Covid_19_Analysis
 The provided code performs statistical analysis on the COVID-19 line list data. It explores the relationship between various variables and the likelihood of death from COVID-19. Here's a summary of the code's functionality:
 
     The code imports the "Hmisc" package and installs it if necessary.
